@@ -13,7 +13,7 @@
 Responsive Twitter clone for study purposes.
  
  <p align="center">
-  <img width="560" height="350" src="img/twitter.png">
+  <img width="560" height="650" src="img/twitter.png">
 </p>
 
 
