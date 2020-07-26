@@ -20,7 +20,7 @@ Responsive Twitter clone for study purposes.
 </div>
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Under construction ...  🚧
+	🚧  Node Select 🚀 Under construction ...  🚧
 </h4>
 
 
@@ -35,8 +35,10 @@ The following tools were used in the construction of the project:
 
 ## Features
 
-- [x] User signIn
-- [x] Reserve
+- [x] Tweet
+- [ ] User registry
+- [ ] Upload Avatar / Banner
+- [ ] Tweet management
 
 
 
@@ -55,9 +57,6 @@ In addition, it is good to have an editor to work with the code like
 ## Project
 
 
-- [Figma](https://www.figma.com/file/cjNh1bd93pbJBFOza25K7L/Twitter-Clone?node-id=1%3A2)
-
-
 #### Dependencies
 
 - Styled-components
@@ -69,7 +68,7 @@ In addition, it is good to have an editor to work with the code like
 
 ``` bash
 # Clone this repository
-$ git clone <https://github.comguilhermeseckert GoBarber>
+$ git clone https://github.com/guilhermeseckert/Twitter-Clone.git
 
 # Access the project folder in the / cmd terminal
 $ cd TWITTER-CLONE
