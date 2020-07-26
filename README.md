@@ -31,7 +31,7 @@ The following tools were used in the construction of the project:
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- 
+  
 
 ## Features
 
