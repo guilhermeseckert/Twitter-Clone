@@ -86,11 +86,8 @@ $ yarn
 $ yarn start
 
 ```
-  
----
-## :memo: License
 
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+
 
 ---
 Made with by Guilherme S.Eckert :wave: [Get in touch!](https://www.linkedin.com/in/guilherme-eckert/)
