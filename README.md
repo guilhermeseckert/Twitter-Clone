@@ -10,7 +10,13 @@
   <img alt="Top language" src="https://img.shields.io/github/languages/top/commonality/readme-inspector.svg">
 </p>
 
-Responsive Twitter clone for study purposes.
+---
+
+<h2 align="center"> 
+	 🚀 Responsive Twitter clone for study purposes. 🚀
+</h2>
+
+---
  
  <p align="center">
   <img width="560" height="650" src="img/twitter.png">
@@ -71,7 +77,7 @@ In addition, it is good to have an editor to work with the code like
 $ git clone https://github.com/guilhermeseckert/Twitter-Clone.git
 
 # Access the project folder in the / cmd terminal
-$ cd TWITTER-CLONE
+$ cd Twitter-Clone
 
 # Install the dependencies
 $ yarn
@@ -81,7 +87,10 @@ $ yarn start
 
 ```
   
+---
+## :memo: License
 
+This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
 
 ---
 Made with by Guilherme S.Eckert :wave: [Get in touch!](https://www.linkedin.com/in/guilherme-eckert/)
