@@ -14,12 +14,15 @@
 
 <h2 align="center"> 
 	 🚀 Responsive Twitter clone for study purposes. 🚀
+
+   [Demonstration here](https://twitter-clone-guilherme-509609.netlify.app/)
 </h2>
+
 
 ---
  
  <p align="center">
-  <img width="560" height="650" src="img/twitter.png">
+  <img width="500" height="450" src="img/twitter.png">
 </p>
 
 
